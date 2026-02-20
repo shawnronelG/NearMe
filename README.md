@@ -40,7 +40,7 @@ mapweb.html
 
 <h2 align="center">Chennai</h2>
 <h2 align="center">SHAWN RONEL(25005544)</h2>
-<h4 align="center"></h4>
+
 
 <img src="Screenshot 2026-02-20 082523.png" usemap="#image-map">
 
@@ -58,7 +58,7 @@ mapweb.html
 
 lake3.html
 
-html>
+<html>
 <head><title>mapapp</title></head>
 <body bgcolor="lightyellow">
 <h3 align="center">RETTERI LAKE</h3>
@@ -72,7 +72,7 @@ html>
 temple.html
 
 
-html>
+<html>
 <head><title>mapapp</title></head>
 <body bgcolor="yellow">
 <h3 align="center">IYYPAN TEMPLE</h3>
@@ -85,7 +85,7 @@ html>
 home.html
 
 
-html>
+<html>
 <head><title>mapapp</title></head>
 <body bgcolor="black">
 <h3 align="center">Home</h3>
@@ -97,7 +97,7 @@ html>
 
 lake2.html
 
-html>
+<html>
 <head><title>mapapp</title></head>
 <body bgcolor="ORANGE">
 <h3 align="center">PUHAL LAKE</h3>
@@ -108,6 +108,7 @@ html>
 
 lake1.html
 
+<html>
 <head><title>mapapp</title></head>
 <body bgcolor="BLUE">
 <h3 align="center">KORATTUR LAKE</h3>
